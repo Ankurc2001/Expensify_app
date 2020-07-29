@@ -9,7 +9,7 @@
     "dev-server": "webpack-dev-server",
     "build:dev": "webpack --watch",
     "build:prod": "webpack -p --env production",
-    "heroku-postbuild" : "yarn run build:prod"
+    "heroku-postbuild" : "npm run build:prod"
   },
   "dependencies": {
     "@babel/core": "^7.9.6",
