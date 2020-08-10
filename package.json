@@ -2,7 +2,7 @@
   "name": "expensify-app",
   "version": "1.0.0",
   "engines": {
-    "node": "12.x"
+    "node": "12.18.1"
   },
   "main": "index.js",
   "license": "MIT",
